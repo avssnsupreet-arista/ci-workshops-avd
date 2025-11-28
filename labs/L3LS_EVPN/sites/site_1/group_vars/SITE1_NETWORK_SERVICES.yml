@@ -9,8 +9,8 @@ tenants:
           - id: 10
             name: 'Ten'
             enabled: true
-            ip_address_virtual: 10.10.10.1/24
+            ip_address_virtual: 10.10.10.2/24
           - id: 20
             name: 'Twenty'
             enabled: true
-            ip_address_virtual: 10.20.20.1/24
+            ip_address_virtual: 10.20.20.2/24
